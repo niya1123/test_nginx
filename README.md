@@ -1,7 +1,8 @@
 コンテナ管理機能用のテストリポジトリ
 
 ```
-docker run --rm -p 49152:80 nginx:latest
+docker-compose up -d --build
 ```
 
+で実行
 
